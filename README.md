@@ -16,7 +16,8 @@ Este é um projeto de dashboard frontend moderno, desenvolvido com **Next.js**, 
 
 ## 📷 Preview
 
-<img src="caminho/para/screenshot.png" alt="Dashboard Preview" width="100%"/>
+Você pode visualizar o projeto em funcionamento aqui:  
+🔗 [https://dashboard-frontend-ghennings3s-projects.vercel.app](https://dashboard-frontend-ghennings3s-projects.vercel.app)
 
 ---
 
