@@ -2,7 +2,6 @@ import { ChartOverview } from "@/components/chart";
 import Sales from "@/components/sales";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { BadgeDollarSign, DollarSign, Percent, User } from "lucide-react";
-import Image from "next/image";
 
 export default function Home() {
   return (

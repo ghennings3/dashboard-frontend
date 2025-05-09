@@ -1,4 +1,4 @@
-import { CircleDollarSign, DollarSign } from "lucide-react";
+import { CircleDollarSign } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../ui/card";
 import { Avatar, AvatarFallback } from "../ui/avatar";
 import { AvatarImage } from "@radix-ui/react-avatar";
